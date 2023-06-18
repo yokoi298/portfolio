@@ -18,6 +18,7 @@ st.write('- OS：macOS(ノートPC)，Windows 10(デスクトップ)')
 
 st.write('- セキュリティ：(学習期間，どのように利用してきたか)')
 st.write('Kali linux：1年未満．mac,windowsで利用できます．現在学習中です．詳しくはpage2の授業外での学びにて説明をしています．')
+st.write('Owasp zap，burp suite:現在学習開始．')
 st.write('仮想環境：1年未満．macではUTMの利用．Windowsではバーチャルボックスの利用．')
 st.write('知識：現在，情報処理安全確保支援士を学習中です．')
 
